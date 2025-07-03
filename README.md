@@ -56,6 +56,32 @@ Agile is an iterative approach to project management and software development th
 
 ---
 
+## 🤝 Contact
+
+- 📧 Email: [shahrukhanwar@proton.me](mailto:shahrukhanwar@proton.me)
+- 🌐 Portfolio: [shahrukhanwar.vercel.app](https://shahrukhanwar.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/devshahrukh](https://www.linkedin.com/in/devshahrukh)
+- 🐦 Twitter: [x.com/devshahrukh](https://x.com/devshahrukh)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 💖 Sponsor & Support
+
+If you find this project useful, star the repository, consider supporting me:
+
+<p align="left">
+  <a href="https://github.com/sponsors/devshahrukhanwar"><img src="https://img.shields.io/badge/Sponsor%20on-GitHub-E4405F?logo=githubsponsors&logoColor=fff&style=flat" alt="Sponsor on GitHub"/></a>
+  <a href="https://www.buymeacoffee.com/devshahrukh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=000&style=flat" alt="Buy Me a Coffee"/></a>
+</p>
+
+---
+
 ### Cheat Sheets 📝
 
 For more information on design patterns, check out [this cheat sheet](https://refactoring.guru).
